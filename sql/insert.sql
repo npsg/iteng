@@ -1,4 +1,4 @@
-﻿--従業員情報
+--従業員情報
 INSERT INTO m_employee(emp_no, password, department, emp_name, default_tel)
  VALUES ('10000001', crypt('10000001', gen_salt('bf')), '総務部', '総務一雄', '1111')
 , ('10000002', crypt('10000002', gen_salt('bf')), '総務部', '総務二子', '12345678901')
