@@ -6,7 +6,7 @@ ITエンジニア新入社員総合問題集サポートサイトです。
 
 ## サポート情報
 - 03章で利用するデータベース定義ファイルをアップしました。  
-https://github.com/npsg/iteng/tree/main/sql
+[SQLフォルダ](https://github.com/npsg/iteng/tree/main/sql "SQL")
 
 
 ## 正誤表
