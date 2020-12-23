@@ -9,3 +9,8 @@ ITエンジニア新入社員総合問題集サポートサイトです。
 
 ### P.62　
 問４の出典先がp.61に記載されておりました。問４が（平成31年度春期　ITパスポート試験　問88）です。  
+
+
+## 問い合わせフォーム
+問い合わせは以下のフォームよりお願いいたします。
+https://forms.office.com/Pages/ResponsePage.aspx?id=CX98StGyvE-WnXvzw_KC_GTFDqkq-x1DqSNrELG1j2ZUM1JKM1JHT0FVNE1SODBJV0VXVlAzQ0xaQS4u
