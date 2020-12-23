@@ -12,5 +12,5 @@ ITエンジニア新入社員総合問題集サポートサイトです。
 
 
 ## 問い合わせフォーム
-問い合わせは以下のフォームよりお願いいたします。
+問い合わせは以下のフォームよりお願いいたします。  
 https://forms.office.com/Pages/ResponsePage.aspx?id=CX98StGyvE-WnXvzw_KC_GTFDqkq-x1DqSNrELG1j2ZUM1JKM1JHT0FVNE1SODBJV0VXVlAzQ0xaQS4u
